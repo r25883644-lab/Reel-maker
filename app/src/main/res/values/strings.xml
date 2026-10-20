@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reel Maker</string>
+    <string-array name="logo_positions">
+        <item>Top right</item>
+        <item>Top left</item>
+        <item>Bottom right</item>
+        <item>Bottom left</item>
+    </string-array>
+</resources>
